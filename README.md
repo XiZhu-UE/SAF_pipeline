@@ -3,12 +3,12 @@ A demo usage of SAF pipeline
 
 SAF Files Need:
 1. Freesurfer_dir:<br>
-   ├── label<br>
-    ├── lh.cortex.label<br>
-    ├── rh.cortex.label<br>
+├── label<br>
+      ├── lh.cortex.label<br>
+      ├── rh.cortex.label<br>
 ├── mri<br>
-    ├── brain.mgz<br>
-    ├── lh_cortex.nii.gz<br>
+      ├── brain.mgz<br>
+      ├── lh_cortex.nii.gz<br>
     ├── rh_cortex.nii.gz<br>
     ├── ribbon.mgz<br>
     ├── trans_lh_cortex.nii.gz<br>
