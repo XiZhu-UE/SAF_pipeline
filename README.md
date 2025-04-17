@@ -2,14 +2,14 @@
 A demo usage of SAF pipeline
 
 SAF Files Need:
-1. Freesurfer_dir:
-   ├── label
-    ├── lh.cortex.label
-    ├── rh.cortex.label
-├── mri
-    ├── brain.mgz
-    ├── lh_cortex.nii.gz
-    ├── rh_cortex.nii.gz
+1. Freesurfer_dir:<br>
+   ├── label<br>
+    ├── lh.cortex.label<br>
+    ├── rh.cortex.label<br>
+├── mri<br>
+    ├── brain.mgz<br>
+    ├── lh_cortex.nii.gz<br>
+    ├── rh_cortex.nii.gz<br>
     ├── ribbon.mgz
     ├── trans_lh_cortex.nii.gz
     ├── trans_rh_cortex.nii.gz
