@@ -32,6 +32,8 @@ SAF Files Need:
 
    Replace file paths of your own file paths or not.<br>
 
+Before run SAF pipeline, you should add mrtrix matlab library to matlab. "addpath */mrtrix3/matlab" in Command Window, replace */mrtrix3/matlab with your own library.
+
 If you prepare files need above, you can run "run_scripts.m". There are some difference between this repository and original repository:<br>
 1. Add metrics calculate file.<br>
 2. It would save not croped streamline as default, this is useful for HOA analysis.<br>
